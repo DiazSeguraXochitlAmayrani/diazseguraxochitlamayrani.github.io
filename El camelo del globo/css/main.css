@@ -1,0 +1,85 @@
+html {
+   background-color: #F8F8F2;
+ }
+ body {
+   width: 960px;
+   margin:  auto;
+   background-color:   #98d083;
+ }
+ h1{
+  color: #35b0ab;
+  align-self: auto;
+
+ }
+ .contenedor {
+   overflow: hidden;
+ }
+ 
+ .col-izquierda {
+   float: left;
+   width: 20%;
+   background-color:  #98d083;
+
+ }
+ .col-izquierda ul {
+   list-style-type: circle;
+   padding-left: 0px;
+ }
+ .col-izquierda ul li {
+   padding-left: 10px;
+   margin-top: 10px;
+   border-left: 5px solid #000;
+ }
+ .col-derecha {
+   float: right;
+   width: 80%;
+   background-color: #bcfcc9;
+ }
+ .col-derecha h1 {
+   text-align: center;
+ }
+ .col-derecha p {
+   padding-top: 0px;
+   padding-right: 0px;
+   padding-bottom: 0px;
+   padding-left: 0px;
+ }
+ .consorcio-www {
+   font-size: 10px;
+   background-color: #5D4C46;
+   color: #fff;
+ }
+ .consorcio-historia {
+   font-size: 10px;
+   background-color: #44B3C2;
+   color: #fff;
+ }
+
+ .pie {
+   background-color: #6F3662;
+ }
+ .pie p {
+   text-align: right;
+   color: #F8F8F2;
+ }
+ .scroll {
+	  margin: 30px;
+     width:735px;
+     height:600px;
+     overflow:scroll;
+   
+}
+
+h2{
+  color: rgba(214, 198, 109, 0.87);
+
+}
+p{
+  color:  #4a3333;
+}
+
+
+.Lcapital{
+  font-size:  50px;
+}
+  
